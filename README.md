@@ -35,3 +35,9 @@ lalu pada web hasil nya akan seperti pada gambar berikut ini:
 
 **Clearfix** digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya. Tambahkan element div lainnya setelah div3 seperti berikut.
 
+![menambahkan div](gambar/sel1.PNG)
+
+Kemudian atur property clear pada CSS, seperti berikut ini:
+
+![menambahkan div](gambar/div.PNG)
+
