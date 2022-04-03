@@ -27,3 +27,7 @@ maka hasil nya akan seperti gambar di bawah ini:
 
 Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti contoh gambar berikut
 ![menambahkan gambar](gambar/div2.PNG)
+
+lalu pada web hasil nya akan seperti pada gambar berikut ini:
+![menambahkan gambar](gambar/div1.PNG)
+
