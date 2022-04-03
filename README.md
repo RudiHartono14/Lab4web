@@ -16,3 +16,9 @@ Kelas   : TI.20.B1
 
 Langkah pertama yakni membuat dokuman dengan contoh seperti berikut:
 ![membuat dokumen html](gambar/element1.PNG)
+
+**1. Membuat Box Element**
+
+pada point ini kita akan menambahkan Box Element dengan menggunakan Tag < div > seperti berikut ini.
+![menambahkan Box Element](gambar/sel1.PNG)
+
