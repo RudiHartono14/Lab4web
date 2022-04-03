@@ -31,3 +31,7 @@ Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seper
 lalu pada web hasil nya akan seperti pada gambar berikut ini:
 ![menambahkan gambar](gambar/div1.PNG)
 
+**Mengatur Clearfix Element**
+
+**Clearfix** digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya. Tambahkan element div lainnya setelah div3 seperti berikut.
+
