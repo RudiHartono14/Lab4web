@@ -25,3 +25,5 @@ pada point ini kita akan menambahkan Box Element dengan menggunakan Tag < div > 
 maka hasil nya akan seperti gambar di bawah ini:
 ![menambahkan gambar](gambar/selection.PNG)
 
+Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti contoh gambar berikut
+![menambahkan gambar](gambar/div2.PNG)
