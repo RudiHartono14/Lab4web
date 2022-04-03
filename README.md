@@ -22,3 +22,6 @@ Langkah pertama yakni membuat dokuman dengan contoh seperti berikut:
 pada point ini kita akan menambahkan Box Element dengan menggunakan Tag < div > seperti berikut ini.
 ![menambahkan Box Element](gambar/sel1.PNG)
 
+maka hasil nya akan seperti gambar di bawah ini:
+![menambahkan gambar](gambar/selection.PNG)
+
